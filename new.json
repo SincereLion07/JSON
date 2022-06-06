@@ -1,0 +1,13 @@
+{
+	"lastname":"Slesareva",
+	"firstname":"Elena",
+	"father'sname":"Urievna",
+	"quantityofpets":0,
+	"desiredsalary":"$2000"
+}	{
+	"lastName": "Slesareva",
+	"firstName": "Elena",
+	"father'sName": "Urievna",
+	"quantityofPets": null,
+	"desiredSalary": "$2000"
+}	
