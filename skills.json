@@ -1,0 +1,12 @@
+{
+	"skill1": "Basic theory",
+	"skill2": "HTTP requests",
+	"skill3": "Programming language Python",
+	"skill4": "SQL Basics",
+	"skill5": "Mobile, API, Load testing",
+	"skill6": "Data base Postgres",
+	"skill7": "Access to remote server",
+	"skill8": "Building android apps on Android Studio",
+	"skill9": "Scrum development methodology",
+	"andOthersSkills":"Git, Terminal Git Bash, Postman, ADB, JSON, XML, etc"
+}
